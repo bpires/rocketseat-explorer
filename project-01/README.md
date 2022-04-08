@@ -1,12 +1,9 @@
-### _RocketSeat's Explorer coursework projects_
-
-<center>
+# 👨‍🚀 RocketSeat's Explorer coursework projects
 
 ### Stage 02 - Introduction to HTML and CSS
 
 ---
 
-</center>
       
 📅 **05.04.2022**
 
