@@ -20,5 +20,7 @@
 >
 > Played with new properties and different alignments; created a button-styled link.
 
+💡 **Highlight:** Learned the concept of code refactoring, restructuring it to improve semantics and accessibility, as well as cleaning it up for easier understanding, maintaining and further modification.
+
 🌱 **Stacks:** HTML | CSS
 

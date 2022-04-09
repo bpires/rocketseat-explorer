@@ -1,81 +1,75 @@
+/* Reseting browser configs */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-#body {
-  width: 60vw;
-  height: 85vh;
+a, a:hover, a:visited, a:active {
+  text-decoration: none;
+  color: initial;
+}
+
+/* Defining common properties */
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0) 80%, rgba(139, 237, 213, 0.4) 100%) fixed;
+  min-height: 100vh;
+}
+
+.page {
+  width: 80vw;;
+  max-width: 1000px;
   align-content: center;
   align-self: center;
   margin: auto;
 }
 
-#header {
+/* Styling upper section of page */
+
+nav {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  width: 1005;
   height: 23;
   justify-content: space-between;
-  padding-top: 65px
+  align-items: center;
+  padding-top: 65px;
+  padding-bottom: 60px;
 }
-
-#logo {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
 
 li:hover {
   font-weight: 700;
   opacity: 1.0;
 }
 
-nav {
+li {
+  opacity: 0.5;
+}
+
+/* Obs.: Changed <ul> display from flex to grid to prevent bold property on hover from shifting layout */
+
+ul {
   font-family: 'Mulish';
   font-style: normal;
   font-size: 18px;
   line-height: 23px;
   color: #1F1534;
-  display: inline-flex;
-  list-style: none;
-  padding: 0;
-  width: 267px;
-  opacity: 0.5;
   font-weight: 400;
+  width: 267px;
+  list-style: none;
+	display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
 }
 
-li {
-  flex-grow: 1;
-}
+/* Styling middle section of page */
 
-
-a, a:hover, a:visited, a:active {
-  color: inherit;
-  text-decoration: none;
-}
-
-#main {
+main {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row;
   align-items: center;
   justify-content:space-between;
-  width: 1005;
-  margin: 100px auto 100px;
 }
-
-
-#left {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: space-evenly;
-}
-
 
 #call {
   font-family: 'Mulish';
@@ -83,52 +77,37 @@ a, a:hover, a:visited, a:active {
   font-weight: 400;
   font-size: 49px;
   line-height: 114%;
-  color: #000000;
+  color: #000;
+  width: 490px;
 }
 
 #emphasis {
   color: #89C5CC;
 }
 
-#text {
+#paragraph {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 200%;
   color: #7D7987;
-  margin-top: 40px;
+  margin: 40px 0;
+  width: 430px;
 }
 
-
-#balls-decoration {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-}
-
-footer {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 28px;
-  text-align: center;
-  color: #000000;
-}
-
+/* Obs.: Choose to use a link styled as a button to avoid the use of JavaScript */
 
 .button {
   border: 0;
   display: flex;
-  flex-direction: row;
+  gap: 10px;
   justify-content: center;
   align-items: center;
   border-radius: 4px;
   background-color: #69B99D;
   width: 179px;
   height: 56px;
-  margin-top: 40px;
 }
 
 .button #text-button {
@@ -139,7 +118,6 @@ footer {
   font-size: 16px;
   line-height: 21px; 
   text-align: center;
-  margin-left: 10px;
 }
 
 .button:hover {
@@ -150,7 +128,31 @@ background-color: #81d4b7;
   background-color: #69B99D;
 }
 
+#illustration {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
 
+/* Styling lower sectio of page */
+
+footer {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+  margin-top: 80px;
+  padding: 32px;
+}
+
+#balls-decoration {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
 
 
 

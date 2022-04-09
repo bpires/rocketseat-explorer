@@ -18,48 +18,57 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="body">
-    <header>
-      <div id="header">
-        <div id="logo"><a href="https://www.instagram.com/treine.me"><img src="./images/logo.svg" alt="logo treine.me" /></a></div>
-        <nav>
-          <li><a id="Home" href="https://bpires.github.io/rocketseat-explorer/project-02/#">Home</a></li>
-          <li><a id="Sobre" href="https://bpires.github.io/rocketseat-explorer/project-02/#">Sobre</a></li>
-          <li><a id="Treinar" href="https://bpires.github.io/rocketseat-explorer/project-02/#">Treinar</a></li>
-        </nav>
-      </div>
-    </header>
+  
+    <!-- Used a <div> container to determine content limits within the page -->
 
-    <main>
-      <div id="main">
-        <div id="left">
-          <p id="call">Treinos <strong id="emphasis">exclusivos</strong>
-            <br/>para você!</p>
-          <p id="text">
-            Nós criamos treinos <strong>exclusivos e únicos para você.</strong><br/>
-            Invista no seu corpo e <strong>tenha muito mais performance</strong> e
-            <br/>qualidade de vida.
-          </p>
-          <a class=button href="https://api.whatsapp.com/send/?phone=0000000000000">
-            <img id="whatsapp" src="./images/whats.svg" alt="símbolo do whatsapp" />
-            <span id="text-button">Comece já</span>
-          </a>
-        </div>   
-        <div id="right">
-          <img
-          src="./images/img.png"
-          alt="ilustração de uma mulher pulando corda"/> 
-        </div>
-      </div>
-    </main> 
+    <div class="page">
+      
+      <!-- The navigation section element purpose is to provide navigation links (like menus, indexes, ToC's) -->
+
+        <nav>
+          <a id=logo href="#"><img src="./images/logo.svg" alt="logo treine.me" /></a>
+          <ul>  
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Treinar</a></li>
+          </ul>                   
+        </nav>      
+
+      <!-- The <main> represents the dominant content of the <body>, directly related to the central topic of the document -->
+
+      <main>
+          <section id="text">
+            <h1 id="call">Treinos <strong id="emphasis">exclusivos</strong>
+            para você!</h1>
+            <p id="paragraph">
+              Nós criamos treinos <strong>exclusivos e únicos para você.</strong>
+              <br/>
+              Invista no seu corpo e <strong>tenha muito mais performance</strong> e
+              qualidade de vida.
+            </p>
+            <a class=button href="https://api.whatsapp.com/send/?phone=0000000000000" target="_blank">
+              <img id="whatsapp" src="./images/whats.svg" alt="símbolo do whatsapp" />
+              <span id="text-button">Comece já</span>
+            </a>
+          </section>   
+          
+          <img id="illustration"
+            src="./images/img.png"
+            alt="ilustração de uma mulher pulando corda"/>
+      </main> 
+      
+      <!-- The <footer> typically contains information about the author of the section, contacts, copyright data or links to related documents. -->
+      
       <footer>
         <p>
           fale conosco no instagram
           <a href="https://www.instagram.com/treine.me/"><strong>@treine.me</strong></a>
-        </p>
-
-        <span id="balls-decoration"><img src="./images/balls.svg" alt="bolas decorativas" /></span:>
+        </p>     
       </footer>
+
+      <!-- The decorative balls are not part of any section of the page -->
+
+      <img src="./images/balls.svg" alt="bolas decorativas no canto inferior direito" id="balls-decoration"/>
 
     </div>
   </body>
