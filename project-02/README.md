@@ -12,11 +12,11 @@
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-02/)**
 
 
-👨‍💻 **Task:** build a small business responsive website from a given Figma project.
+👨‍💻 **Task:** build a small business website from a given Figma project.
 
 > Exercised HTML semantics.
 >
-> Improved accessibility and used CSS flexbox layout to build a responsive website.
+> Improved accessibility and used CSS flexbox layout.
 >
 > Played with new properties and different alignments; created a button-styled link.
 
