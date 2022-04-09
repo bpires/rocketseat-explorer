@@ -28,13 +28,10 @@
   justify-content: center;
 }
 
-#Sobre, #Treinar {
-  opacity: 0.5;
-  font-weight: 400;
-}
 
-#Home {
+li:hover {
   font-weight: 700;
+  opacity: 1.0;
 }
 
 nav {
@@ -47,11 +44,14 @@ nav {
   list-style: none;
   padding: 0;
   width: 267px;
+  opacity: 0.5;
+  font-weight: 400;
 }
 
 li {
   flex-grow: 1;
 }
+
 
 a, a:hover, a:visited, a:active {
   color: inherit;
