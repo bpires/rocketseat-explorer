@@ -1,4 +1,4 @@
-# 👨‍🚀 RocketSeat's Explorer coursework projects
+# 👨‍🚀 Rocketseat's Explorer coursework projects
 
 ### Stage 02 - Project 2 - Getting to know new HTML and CSS concepts
 
@@ -12,13 +12,13 @@
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-02/)**
 
 
-👨‍💻 **Task:** build a small business website from a given Figma project.
+👨‍💻 **Task:** build a small business static website from a given Figma project.
 
-> Exercised HTML semantics.
+> Exercised more HTML semantics.
 >
 > Improved accessibility and used CSS flexbox layout.
 >
-> Played with new properties and different alignments; created a button-styled link.
+> Played with new properties and different alignments. Created a button-styled link.
 
 💡 **Highlight:** Learned the concept of code refactoring, restructuring it to improve semantics and accessibility, as well as cleaning it up for easier understanding, maintaining and further modification.
 
