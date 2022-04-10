@@ -1,12 +1,15 @@
-# 👨‍🚀 RocketSeat's Explorer coursework projects
+# 👨‍🚀 Rocketseat's Explorer coursework projects
 
-![last commit](https://img.shields.io/github/last-commit/bpires/rocketseat-explorer?color=green 'last commit') &nbsp; ![repo size](https://img.shields.io/github/repo-size/bpires/rocketseat-explorer?color=green 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/bpires/rocketseat-explorer?color=green 'languages') &nbsp; ![license](https://img.shields.io/github/license/bpires/rocketseat-explorer?color=green 'license')
+![last commit](https://img.shields.io/github/last-commit/bpires/rocketseat-explorer?color=2c5a6c 'last commit') &nbsp; ![repo size](https://img.shields.io/github/repo-size/bpires/rocketseat-explorer?color=2c5a6c 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/bpires/rocketseat-explorer?color=2c5a6c 'languages') &nbsp; ![license](https://img.shields.io/github/license/bpires/rocketseat-explorer?color=2c5a6c 'license')
 <br/>
 
-<img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75" height="35">&nbsp;
+<img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" height="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75" height="35">&nbsp;
 
-Coursework projects and exercises gathered throughout Explorer course at RocketSeat.  
-A way to document my journey as a WebDev aspirer 🚀
+Here you'll find coursework projects and exercises I'm gathering throughout my experience on the Explorer course at Rocketseat, as well as other little projects I do along the way.   
+
+This is a way to document my journey as a WebDev aspirer 🚀
+
+Check out my [student portfolio](https://bpires.github.io/rocketseat-explorer/) and feel free to share any thoughts.
 
 <br/>
 
