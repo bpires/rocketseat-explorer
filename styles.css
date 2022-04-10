@@ -11419,7 +11419,7 @@ p.lead {
 
 .grid {
   display: flex;
-  column-gap: 10%;
+  column-gap: 15%;
   text-align: left;
 }
 
