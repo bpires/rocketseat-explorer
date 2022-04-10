@@ -1,4 +1,4 @@
-# 👨‍🚀 RocketSeat's Explorer coursework projects
+# 👨‍🚀 Rocketseat's Explorer coursework projects
 
 ### Stage 02 - Project 1: Introduction to HTML and CSS
 
@@ -8,7 +8,7 @@
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://rs-explorer-project1-bpires.netlify.app/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-01/)**
 
 👨‍💻 **Task:** build a small business static website from a given Figma project.
 
