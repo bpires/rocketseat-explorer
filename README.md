@@ -17,6 +17,7 @@ Check out my [student portfolio](https://bpires.github.io/rocketseat-explorer/) 
 
 - Project 1: [Introduction to HTML and CSS](https://github.com/bpires/rocketseat-explorer/tree/main/project-01/)
 - Project 2: [Getting to know new HTML and CSS concepts](https://github.com/bpires/rocketseat-explorer/tree/main/project-01/)
+- Project 3: [Rebuilding layouts](https://github.com/bpires/rocketseat-explorer/tree/main/project-03/)
 
 <br/>
 <br/>
