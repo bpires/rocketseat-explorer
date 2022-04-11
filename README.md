@@ -9,7 +9,7 @@ Here you'll find coursework projects and exercises I'm gathering throughout my e
 
 This is a way to document my journey as a WebDev aspirer 🚀
 
-Check out my [student portfolio](https://bpires.github.io/rocketseat-explorer/) and feel free to share any thoughts.
+Check out my [student portfolio](https://bpires.github.io/) and feel free to share any thoughts.
 
 <br/>
 
