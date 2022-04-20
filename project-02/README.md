@@ -1,6 +1,6 @@
 # 👨‍🚀 Rocketseat's Explorer coursework projects
 
-### Stage 02 - Project 2 - Getting to know new HTML and CSS concepts
+### 2nd Project - Stage 02 - Getting to know new HTML and CSS concepts
 
 ---
 
