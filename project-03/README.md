@@ -1,6 +1,6 @@
 # 👨‍🚀 Rocketseat's Explorer coursework projects
 
-### Stage 02 - Project 3 - Rebuilding layouts
+### 3rd Project - Stage 02 - Rebuilding layouts
 
 ---
 
