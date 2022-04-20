@@ -1,6 +1,6 @@
 # 👨‍🚀 Rocketseat's Explorer coursework projects
 
-### Stage 02 - Project 1: Introduction to HTML and CSS
+### 1st Project - Stage 02 - Introduction to HTML and CSS
 
 ---
 
