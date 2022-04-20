@@ -28,7 +28,7 @@ Check out my [student portfolio](https://bpires.github.io/) and feel free to sha
 
 #### Status: 🚧 In progress
 
-<p style="color:#381480"> ██▁▁▁▁▁▁▁▁ &nbsp;20% </p>
+<p style="color:#381480"> ███▁▁▁▁▁▁▁ &nbsp;25% </p>
 
 #### 🧰 Stacks practised
 
