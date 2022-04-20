@@ -16,6 +16,6 @@
 > 
 > Learned about validation and further customization of the form templates available in HTML, without compromising accessibility.
 
-💡 Highlight: Fixed the validation error, preventing the browser to apply the styles of `:invalid` pseudo-class as soon as the page loads in required form elements. Added a `:valid` style to be displayed after correct data entry.
+💡 **Highlights:** Managed to fix the validation error, preventing the browser to apply the styles of `:invalid` pseudo-class as soon as the page loads in required form elements. Plus, added a `:valid` style to be displayed after correct data entry.
 
 🌱 **Stacks:** HTML | CSS
