@@ -27,27 +27,29 @@
           <legend>Informações do Evento</legend>
           <div class="divider"></div>
           <div class="input-wrapper">
-            <label for="event-title">Título do evento <span class="caption">(mínimo 8 caracteres)</span></label>
-            <input type="text" id="event-title" required minlength="8" />
+            <label for="event-title">Título do evento <span class="caption">(mínimo 8 caracteres)</span><span class="red">*</span></label>
+            <input type="text" id="event-title" required minlength="8" placeholder=" " />
           </div>
           <div class="input-wrapper">
-            <label for="link">Link do evento <span class="caption">(comece com https://)</span></label>
-            <input type="url" id="link" required />
+            <label for="link">Link do evento <span class="caption">(comece com https://)</span><span class="red">*</span></label>
+            <input type="url" id="link" placeholder=" "required />
           </div>
           <div class="input-wrapper">
-            <label for="whatsapp">Whatsapp para contato <span class="caption">(somente números)</span></label>
-            <input type="number" id="whatsapp" required>
+            <label for="whatsapp">Whatsapp para contato <span class="caption">(somente números)</span><span class="red">*</span></label>
+            <input type="tel" id="whatsapp" placeholder=" " required>
           </div>
           <div class="input-wrapper">
             <label for="extra">Informações extras</label>
-            <textarea id="extra" cols="1" rows="1" maxlength="400"></textarea>
+            <textarea id="extra" cols="1" rows="1" maxlength="400" placeholder=" " ></textarea>
           </div>
           <div class="input-wrapper">
-            <label for="type">Categoria</label>
-            <select id="type" required>
+            <label for="type">Categoria<span class="red">*</span></label>
+            <select id="type" required oninput='style.color="var(--color-text)"'>
+              <option value="" disabled selected hidden>Selecione uma opção...</option>
               <option value="live">Ao vivo</option>
               <option value="podcast">Podcast</option>
               <option value="mentorship">Mentoria</option>
+              <option value="other">Outro</option>
             </select>
           </div>
         </fieldset>
@@ -56,12 +58,12 @@
           <legend>Privacidade</legend>
           <div class="divider"></div>
           <div class="input-wrapper">
-            <label for="email">E-mail do administrador <span class="caption">(digite um email válido)</span></label>
-            <input type="email" id="email" required />
+            <label for="email">E-mail do administrador <span class="caption">(digite um email válido)</span><span class="red">*</span></label>
+            <input type="email" id="email" placeholder=" " required />
           </div>
           <div class="input-wrapper">
-            <label for="senha">Senha de acesso para os participantes <span class="caption">(mínimo 8 caracteres)</span></label>
-            <input type="password" id="senha" minlength="8" required />
+            <label for="senha">Senha de acesso para os participantes <span class="caption">(mínimo 8 caracteres)</span><span class="red">*</span></label>
+            <input type="password" id="senha" minlength="8" placeholder=" " />
           </div>
           <div class="checkbox-wrapper">
             <input type="checkbox" id="privado">
@@ -74,19 +76,20 @@
           <div class="divider"></div>
           <div class="data-wrapper">
             <div class="input-wrapper">
-              <label for="data">Data</span></label>
-              <input type="date" id="data" required />
+              <label for="data">Data<span class="red">*</span></label>
+              <input type="text" onfocus="(this.type = 'date')" id="data" placeholder=" " required />
             </div>
             <div class="input-wrapper">
-              <label for="start-time">Das</span></label>
-              <input type="time" id="start-time" placeholder="19:00" required />
+              <label for="start-time">Das<span class="red">*</span></label>
+              <input type="text" onfocus="(this.type = 'time')" id="start-time" placeholder=" " required />
             </div>
             <div class="input-wrapper">
-              <label for="end-time">Até</label>
-              <input type="time" id="end-time" placeholder="20:00" required>
+              <label for="end-time">Até<span class="red">*</span></label>
+              <input type="text" onfocus="(this.type = 'time')" id="end-time" placeholder=" " required>
             </div>
           </div>
-        </fieldset>         
+        </fieldset>
+        <p class="red">* Campos obrigatórios.</p>         
       </form>
     </main>
     <footer>

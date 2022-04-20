@@ -1,3 +1,5 @@
+/* base model: https://www.figma.com/file/sgcJKpGAeVqh7rf2pwsOd9/Explorer-Stage-03-Projeto-01/duplicate */
+
 /* Reseting browser configs */
 
 * {
@@ -39,6 +41,9 @@ a {
   --color-bg-footer: #F0F0F4; 
   --color-border: #E6E6F0;
   --color-border2:  #D6D6D6;
+  --color-valid: rgba(66, 211, 255, 0.75);
+  --color-invalid: rgba(213, 11, 11, 0.5);
+  --color-red: rgba(213, 11, 11, 0.8);
 }
 
 
@@ -64,9 +69,23 @@ header {
   height: 160px;
 }
 
+body {
+  background-color: var(--color-bg-body);
+}
+
+body::before {
+  content: '';
+  position: absolute;
+  background-color: var(--color-bg-header);
+  height: 368px;
+  width: 100vw;
+  z-index: -1;
+}
+
+
 form {
   width: 736px;
-  height: 1430px;
+  height: 1470px;
   padding: 64px;
   margin: auto;
   border-radius: 8px 8px 0px 0px;
@@ -104,15 +123,30 @@ input, textarea, select {
   color: var(--color-text);
 }
 
+.error-message {
+  display: none;
+}
+
 input, select {
   height: 56px;
   padding: 0 24px 0;
 }
 
-input:invalid {
-  border: 1px solid #FF1010;
+input:not(:focus):not(:placeholder-shown):invalid {
+  border: 2px solid var(--color-invalid);
 }
 
+input:not(:focus):not(:placeholder-shown):valid {
+  border: 2px solid var(--color-valid);
+}
+
+select:valid, textarea:not(:placeholder-shown):valid {
+  border: 2px solid var(--color-valid);
+}
+
+select, input::placeholder {
+  color: var(--color-caption);
+}
 
 select {
   appearance: none;
@@ -190,18 +224,14 @@ label span {
   width: 312px;
 }
 
-
-body {
-  background-color: var(--color-bg-body);
+.data-wrapper > div:nth-child(2), .data-wrapper > div:nth-child(3) {
+  width: 128px;
 }
 
-body::before {
-  content: '';
-  position: absolute;
-  background-color: var(--color-bg-header);
-  height: 368px;
-  width: 100vw;
-  z-index: -1;
+
+.red {
+  color: var(--color-red);
+  font: var(--font-caption);
 }
 
 footer {
