@@ -11,7 +11,7 @@ Here you'll find coursework projects and exercises I'm gathering throughout my e
 
 If you like this way of documenting your journey, feel free to use it your own way. 
 
-I'd appreciate if you say thanks **by ⭐ starring this repo** or mentioning me 😊
+I'd appreciate it if you say thanks **by ⭐ starring this repo** or mentioning me 😊
 
 Also, please share any thoughts or suggestions you have or get in touch if I can help you with anything!
 
