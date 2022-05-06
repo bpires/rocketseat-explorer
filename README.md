@@ -23,10 +23,10 @@ Also, please get in touch if I can help you with anything!
 
 ### 📌 Table of Contents
 
-- 1<sup>st</sup> Project: [Introduction to HTML and CSS](https://github.com/bpires/rocketseat-explorer/tree/main/project-01/)
-- 2<sup>nd</sup> Project: [Getting to know new HTML and CSS concepts](https://github.com/bpires/rocketseat-explorer/tree/main/project-01/)
-- 3<sup>rd</sup> Project: [Rebuilding layouts](https://github.com/bpires/rocketseat-explorer/tree/main/project-03/) (challenge 🔥)
-- 4<sup>th</sup> Project: [Forms, validation and customization](https://github.com/bpires/rocketseat-explorer/tree/main/project-04/)
+- 1<sup>st</sup> Project: [Introduction to HTML and CSS](./project-01/)
+- 2<sup>nd</sup> Project: [Getting to know new HTML and CSS concepts](./project-02/)
+- 3<sup>rd</sup> Project: [Rebuilding layouts](./project-03/) (challenge 🔥)
+- 4<sup>th</sup> Project: [Forms, validation and customization](./project-04/)
 
 <br/>
 <br/>
