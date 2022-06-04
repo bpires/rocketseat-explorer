@@ -1,0 +1,94 @@
+<DOCTYPE html>
+  <html lang="pt-br">
+    <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="icon" href="" />
+  
+      <title>Crie e compartilhe seu evento</title>
+  
+      <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Staatliches&display=swap" rel="stylesheet">
+  
+      <link rel="stylesheet" href="./styles.css" />
+    </head>
+  <body>
+  <header>
+    <div>
+      <h1>MENTORIA</h1>
+      <p>Preencha o formulário abaixo para agendar a sua mentoria</p>
+    </div>
+  </header>
+  <main>
+    <form action="    ">
+      <fieldset>
+        <legend>INFORMAÇÕES PESSOAIS</legend>
+        <div class="divider"></div>
+        <div class="input-wrapper">
+          <label for="name">Nome</label>
+          <input type="text" id="name" required placeholder="">
+        </div>
+        <div class="input-wrapper">
+          <label for="surname">Sobrenome</label>
+          <input type="text" id="surname" required placeholder="">
+        </div>
+        <div class="input-wrapper"> 
+          <label for="email">Email <span>(digite um email válido)</span></label>
+          <input type="text" id="email" required placeholder="">
+        </div>
+        <div class="input-wrapper"> 
+          <label for="password">Senha <span>(mínimo de 6 caracteres)</span></label>
+          <input type="number" id="password" required placeholder="">
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>INFORMAÇÕES DO MENTOR</legend>
+        <div class="divider"></div>
+        <div class="input-wrapper">
+          <label for="mentor.name">Nome do seu mentor <span>(só o primeiro nome)</span></label>
+          <input type="text" id="name" required placeholder="">
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>SEUS HORÁRIOS DISPONÍVEIS</legend>
+        <div class="divider"></div>
+        <div>
+          <p>PRIMEIRA MENTORIA</p>
+          <div class="data-wrapper">
+            <label for="data1">Data <span>(DD/MM/AAAA)</span></label>
+            <input type="date" id="data1">
+          </div>
+          <div class="time-wrapper">
+            <label for="time1A">Das</label>
+            <input type="time" id="time1A">
+          </div>         
+          <div class="time-wrapper">
+            <label for="time1B">Até</label>
+            <input type="time" id="time1B">
+          </div>         
+        </div>
+        <div>
+          <p>SEGUNDA MENTORIA</p>
+          <div class="data-wrapper">
+            <label for="data2">Data <span>(DD/MM/AAAA)</span></label>
+            <input type="date" id="data2">
+          </div>         
+          <div class="time-wrapper">
+            <label for="time2A">Das</label>
+            <input type="time" id="time2A">
+          </div>         
+          <div class="time-wrapper">
+            <label for="time2B">Até</label>
+            <input type="time" id="time2B">
+          </div>         
+        </div>
+      </fieldset>
+      <button>
+        <p>SALVAR</p>
+      </button>
+    </form>
+  </main>
+  </body>
+</html>

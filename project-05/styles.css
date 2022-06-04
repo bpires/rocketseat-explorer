@@ -1,0 +1,37 @@
+/* base model: https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/explorer-project-05?node-id=0%3A1 */
+
+/* Reseting browser configs */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Declaring variables */
+
+:root {
+  /* fonts */
+  --font-title: normal 400 48px/60px 'Staatliches', sans-serif;
+  --font-subtitle: normal 400 20px/30px 'Poppins', sans-serif;
+  --font-fieldset: normal 400 24px/34px 'Staatliches', sans-serif;
+  --font-label: normal 400 14px/24px 'Poppins', sans-serif;
+  --font-input: normal 400 16px/26px 'Poppins', sans-serif;
+  --font-caption: normal 400 12px/20px 'Poppins', sans-serif;
+  --font-button: normal 400 20px/26px 'Staatliches', sans-serif;
+  /* color palette */
+  --color-primary: #535971;
+  --color-secondary: #FF5374;  
+  --color-tertiary: #EFEFEF;  
+  --color-text-contrast: #FFFFFF;
+  --color-label: #4E4958;
+}
+
+header {
+  
+}
