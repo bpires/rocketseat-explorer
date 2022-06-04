@@ -44,7 +44,6 @@ I'd appreciate it if you say thanks **by ⭐ starring this repo** or sharing you
 
 🌱 **Stacks:** HTML | CSS
 
-
 ---
 
 ## Getting to know new HTML and CSS concepts

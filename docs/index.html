@@ -36,9 +36,16 @@
     </style>
 
     <!-- Docsify core. -->
-    <script defer src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <!-- docsify-themeable (latest v0.x.x) -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" data-ga="G-FJ96SKM5EQ"></script>
+    <!-- Docsify Google Analytics plugin. -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+    <!-- Docsify-themeable  -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <!-- Docsify-zoom image -->
+    <script defer src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!-- Docsify-emojis -->
+    <script defer src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
     <!-- Syntax highlighting.-->
      <script defer src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
      <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
@@ -61,23 +68,29 @@
             name: "My Learning Journal", 
             repo: "https://github.com/bpires/rocketseat-explorer",
             nameLink: "/#/?id=start",
-            
+
+
             loadNavbar: true,
             auto2top: true,
             coverpage: true,
             loadSidebar: false,
-            subMaxLevel: 2,
+            subMaxLevel: 3,
             themeColor: "#659d9f", 
             formatUpdated: '{DD}/{MM}/{YY}',
             topMargin: 30,
 
             fallbackLanguages: ['en', 'pt-br'],
-            
 
         }
 
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- Docsify-click to copy -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <!-- Docsify search plugin. -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
+    
 </body>
 
 </html>
