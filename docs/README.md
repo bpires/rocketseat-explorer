@@ -1,4 +1,4 @@
-  <div style="overflow: auto;">
+  <div id="start" style="overflow: auto;">
         <p style="float: right">
             💡 <a href="#/?id=contribute" style="text-decoration: underline; cursor: pointer">
                 Contribute!
@@ -17,10 +17,9 @@ If you like this way of documenting your journey, feel free to fork it and use i
 
 I'd appreciate it if you say thanks **by ⭐ starring this repo** or sharing your thoughts with me.
 
-Also, please get in touch if I can help you with anything!
 
 
-?> :hourglass_flowing_sand: Last update: {docsify-updated}
+?> Last update: **{docsify-updated}**
 
 ---
 
@@ -115,3 +114,18 @@ Also, please get in touch if I can help you with anything!
 ---
 
 # Contribute
+
+As this is a learning repository, I won't be accepting direct Pull Requests on it.
+
+However, if you found any bug, error, or have a improve suggestion, [please open up an issue about it!](https://github.com/bpires/rocketseat-explorer/issues/new)
+
+I'll really appreciate that and thank you in advance for helping me in my journey. 
+
+---
+
+<p align="center"><i> I'm am an open source enthusiast.</i> 🌱
+<br/><i>Feel free to get inspiration from any aspect of this repo! 
+<br/>Even so, be reasonable: do not just copy.
+<br/>Like academic writing, your work can incorporate the ideas of others 
+<br>but should reflect your original approach to the problem.</i>
+</p>
