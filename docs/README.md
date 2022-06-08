@@ -15,7 +15,7 @@ Here you'll find coursework projects and exercises I'm gathering throughout my e
 
 If you like this way of documenting your journey, feel free to fork it and use it your own way. 
 
-I'd appreciate it if you say thanks **by ⭐ starring this repo** or sharing your thoughts with me.
+I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://github.com/bpires/rocketseat-explorer) or sharing your thoughts with me.
 
 
 
