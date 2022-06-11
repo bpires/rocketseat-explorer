@@ -37,7 +37,7 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 
 ##
 
-  <a href="https://www.linkedin.com/in/monica-vaz"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/rafaelbpire"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
 
 <div display="inline-block">
