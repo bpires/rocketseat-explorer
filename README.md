@@ -37,7 +37,13 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 
 ##
 
-  <a href="https://www.linkedin.com/in/monica-vaz"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<div>
+<a href="https://discord.com/users/690807885617430558"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+<a href="https://www.polywork.com/rafaelbpires"><img align="right" width="25px" src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/polywork.svg" />
+<a href="https://bpires.hashnode.dev/"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />    
+<a href="https://www.twitter.com/rafaelbpires"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+<a href="https://www.linkedin.com/in/rafaelbpires"><img align="right" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      
 </div>
 
 <div display="inline-block">
