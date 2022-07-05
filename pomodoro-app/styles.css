@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Declaring variables */
+
+:root {
+  font-size: 62.5%;
+  /* color palette */
+  --color-primary: #FFFFFF;
+  --color-secondary: #42D3FF;  
+  --color-background: #121214;  
+  --color-button: rgba(66, 211, 255, 0.13);
+}
+
+body {
+  background-color: var(--color-background);
+  
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;    
+  gap: 1.6rem;
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+  font: normal 700 8.8rem/10.3rem 'Roboto', sans-serif;;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.2rem;
+
+  margin: 0 auto;
+  
+  background-color: var(--color-button);
+
+  width: 22.8rem;
+  height: 10.8rem;
+
+  border-radius: 5rem;
+
+
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 3.2rem;
+}
