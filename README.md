@@ -3,9 +3,9 @@
 ![created](https://badges.pufler.dev/created/bpires/rocketseat-explorer?color=5F9EA0) &nbsp;  ![last commit](https://img.shields.io/github/last-commit/bpires/rocketseat-explorer?color=5F9EA0 'last commit') &nbsp;  ![repo size](https://img.shields.io/github/repo-size/bpires/rocketseat-explorer?color=5F9EA0 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/bpires/rocketseat-explorer?color=5F9EA0 'languages') &nbsp; ![license](https://img.shields.io/github/license/bpires/rocketseat-explorer?color=5F9EA0) 
 <br/>
 
+<!--
 <br>
-
-<img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" height="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75" height="35">&nbsp;
+<img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" height="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75" height="35">&nbsp; -->
 
 <br>
 
