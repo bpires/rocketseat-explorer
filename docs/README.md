@@ -17,6 +17,9 @@ If you like this way of documenting your journey, feel free to fork it and use i
 
 I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://github.com/bpires/rocketseat-explorer) or sharing your thoughts with me.
 
+All Figma layouts used are available [🗃️ here](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A277).
+
+
 ?> Last update: **{docsify-updated}**
 
 ---
@@ -135,7 +138,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 👨‍💻 **Task:** build forms from given layouts.
 
-💡 **Highlights:** 
+💡 **Highlights:**
 
 📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=0%3A1)**
 
@@ -151,7 +154,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 
+🔗
 
 👨‍💻 **Task:** build ___ from a given layout.
 
@@ -191,7 +194,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 
+🔗
 
 👨‍💻 **Task:** build ___ from a given layout.
 
@@ -199,7 +202,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A847)**
 
-🌱 **Stacks:** 
+🌱 **Stacks:**
 
 ---
 
@@ -211,15 +214,15 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 
+🔗
 
-👨‍💻 **Task:** 
+👨‍💻 **Task:**
 
 💡 **Highlights:**
 
 📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A985)**
 
-🌱 **Stacks:** 
+🌱 **Stacks:**
 
 ---
 
@@ -231,15 +234,15 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 
+🔗
 
-👨‍💻 **Task:** 
+👨‍💻 **Task:**
 
 💡 **Highlights:**
 
 📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A1837)**
 
-🌱 **Stacks:** 
+🌱 **Stacks:**
 
 ---
 
@@ -251,18 +254,15 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 
+🔗
 
-👨‍💻 **Task:** 
+👨‍💻 **Task:**
 
 💡 **Highlights:**
 
 📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A277)**
 
-🌱 **Stacks:** 
-
-
-
+🌱 **Stacks:**
 
 ---
 
