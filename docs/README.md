@@ -1,32 +1,31 @@
-  <div id="start" style="overflow: auto;">
+<div id="start" style="overflow: auto;">
         <p style="float: right">
             💡 <a href="#/?id=contribute" style="text-decoration: underline; cursor: pointer">
                 Contribute!
             </a>
         </p>
 
-
 # Rocketseat Explorer coursework projects <!-- {docsify-ignore} -->
+
 #### 👨‍🚀 Rafael B. Pires <!-- {docsify-ignore} -->
 
 This is a way to document my journey as a WebDev aspirer 🚀
 
 Here you'll find coursework projects and exercises I'm gathering throughout my experience on the Explorer course at Rocketseat, as well as other little projects I do along the way.
 
-If you like this way of documenting your journey, feel free to fork it and use it your own way. 
+If you like this way of documenting your journey, feel free to fork it and use it your own way.
 
 I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://github.com/bpires/rocketseat-explorer) or sharing your thoughts with me.
-
-
 
 ?> Last update: **{docsify-updated}**
 
 ---
 
-#  Projects
+# Projects
+
 ---
 
-## Introduction to HTML and CSS
+## 1 · Introduction to HTML and CSS
 
 🧮 **Stage 02**
 
@@ -36,29 +35,29 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-01/)**
 
-👨‍💻 **Task:** build a small business static website from a given Figma project.
+👨‍💻 **Task:** build a small business static website from a given layout.
 
 > Exercised HTML syntax, anatomy and elements while structuring the web page.
 >
 > Used CSS styling for font customization, text formatting, and element positioning according to the intended layout.
 
-🌱 **Stacks:** HTML | CSS
+📐 **[Figma model](https://www.figma.com/file/pZ6wVnr4NQtr3kWeUGdiJj/explorer-project-01)**
 
+🌱 **Stacks:** HTML | CSS
 
 ---
 
-## Getting to know new HTML and CSS concepts
+## 2 · Getting to know new HTML and CSS concepts
 
 🧮 **Stage 02**
-      
+
 📅 **09.04.2022**
 
 ⏳ **Status:** Finished ✔️
 
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-02/)**
 
-
-👨‍💻 **Task:** build a small business static website from a given Figma project.
+👨‍💻 **Task:** build a small business static website from a given layout.
 
 > Exercised more HTML semantics.
 >
@@ -68,11 +67,13 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlight:** Learned the concept of code refactoring, restructuring it to improve semantics and accessibility, as well as cleaning it up for easier understanding, maintaining and further modification.
 
+📐 **[Figma model](https://www.figma.com/file/FGUYlNJTICNv8Y1s5VwwRK/explorer-project-02)**
+
 🌱 **Stacks:** HTML | CSS
 
 ---
 
-## Rebuilding layouts
+## 3 · Rebuilding layouts
 
 🧮 **Stage 02**
 
@@ -82,17 +83,19 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-03/)**
 
-👨‍💻 **Task:** Apply and reinforce the knowledge gained.
+👨‍💻 **Task:** Apply and reinforce the knowledge gained by building a business landing page from scratch.
 
 > Practised finding bugs and reviewing semantics and accessibility by fixing three broken codes.
-> 
+>
 > Afterwards, consolidated all content learned so far by building a new website.
+
+📐 **[Figma model](https://www.figma.com/file/6ubfo4Ex0Z609hxUjal4yL/explorer-project-03)**
 
 🌱 **Stacks:** HTML | CSS
 
 ---
 
-## Forms, validation and customization
+## 4 · Forms, validation and customization
 
 🧮 **Stage 03**
 
@@ -102,15 +105,184 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-04/)**
 
-👨‍💻 **Task:** build a sample form from a given [Figma model](https://www.figma.com/file/sgcJKpGAeVqh7rf2pwsOd9/Explorer-Stage-03-Projeto-01)
+👨‍💻 **Task:** build a sample form from a given layout.
 
 > Worked with forms to capture data from the web, using a varied range of form elements and exploring its properties.
-> 
+>
 > Learned about validation and further customization of the form templates available in HTML, without compromising accessibility.
 
-💡 **Highlights:** Managed to fix a validation error, preventing the browser to apply the styles of `:invalid` pseudo-class in required form elements as soon as the page loads. Plus, added a `:valid` style to be displayed after correct data entry.
+💡 **Highlights:**
+
+> Managed to fix a validation error, preventing the browser to apply the styles of `:invalid` pseudo-class in required form elements as soon as the page loads.
+>
+> Plus, added a `:valid` style to be displayed after correct data entry.
+
+📐 **[Figma model](https://www.figma.com/file/ujFZcMICLmzERunDHD0FDZ/explorer-project-04)**
 
 🌱 **Stacks:** HTML | CSS
+
+---
+
+## 5 · Building Forms
+
+🧮 **Stage 03**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-05/)**
+
+👨‍💻 **Task:** build forms from given layouts.
+
+💡 **Highlights:** 
+
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/explorer-project-05)**
+
+🌱 **Stacks:** HTML | CSS
+
+---
+
+## 6 · Mobile first, grid and animations
+
+🧮 **Stage 03**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-05/)**
+
+👨‍💻 **Task:** build ___ from a given layout.
+
+💡 **Highlights:**
+
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/explorer-project-05)**
+
+🌱 **Stacks:** HTML | CSS
+
+---
+
+## 7 · FocusTimer
+
+🧮 **Stage 05**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 **[See it online](https://bpires.github.io/)**
+
+👨‍💻 **Task:** build ___ from a given layout.
+
+💡 **Highlights:**
+
+📐 **[Figma model](https://www.figma.com/)**
+
+🌱 **Stacks:** HTML | CSS
+
+---
+
+## 8 · Universe
+
+🧮 **Stage 06**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 ](https://bpires.github.io/)**
+
+👨‍💻 **Task:** build ___ from a given layout.
+
+💡 **Highlights:**
+
+📐 
+
+🌱 **Stacks:** 
+
+---
+
+## 9 · GitFav
+
+🧮 **Stage 06**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 
+
+👨‍💻 **Task:** 
+
+💡 **Highlights:**
+
+📐 **[Figma model](https://www.figma.com/)**
+
+🌱 **Stacks:** 
+
+---
+
+## 9 · GitFav
+
+🧮 **Stage 06**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 
+
+👨‍💻 **Task:** 
+
+💡 **Highlights:**
+
+📐 **[Figma model](https://www.figma.com/)**
+
+🌱 **Stacks:** 
+
+---
+
+## 10 · RocketMovies
+
+🧮 **Stages 08, 09 & 09**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 
+
+👨‍💻 **Task:** 
+
+💡 **Highlights:**
+
+📐 **[Figma model](https://www.figma.com/)**
+
+🌱 **Stacks:** 
+
+---
+
+## 11 · Food Explorer
+
+🧮 **Desafio FInal**
+
+📅 **__.07.2022**
+
+⏳ **Status:** Pending ⏲
+
+🔗 
+
+👨‍💻 **Task:** 
+
+💡 **Highlights:**
+
+📐 **[Figma model](https://www.figma.com/)**
+
+🌱 **Stacks:** 
+
+
+
 
 ---
 
@@ -120,7 +292,7 @@ As this is a learning repository, I won't be accepting direct Pull Requests on i
 
 However, if you found any bug, error, or have a improve suggestion, [please open up an issue about it!](https://github.com/bpires/rocketseat-explorer/issues/new)
 
-I'll really appreciate that and thank you in advance for helping me in my journey. 
+I'll really appreciate that and thank you in advance for helping me in my journey.
 
 ---
 
