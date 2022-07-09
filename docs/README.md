@@ -41,7 +41,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 >
 > Used CSS styling for font customization, text formatting, and element positioning according to the intended layout.
 
-📐 **[Figma model](https://www.figma.com/file/pZ6wVnr4NQtr3kWeUGdiJj/explorer-project-01)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A59)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -67,7 +67,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlight:** Learned the concept of code refactoring, restructuring it to improve semantics and accessibility, as well as cleaning it up for easier understanding, maintaining and further modification.
 
-📐 **[Figma model](https://www.figma.com/file/FGUYlNJTICNv8Y1s5VwwRK/explorer-project-02)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A60)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -89,7 +89,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 >
 > Afterwards, consolidated all content learned so far by building a new website.
 
-📐 **[Figma model](https://www.figma.com/file/6ubfo4Ex0Z609hxUjal4yL/explorer-project-03)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A392)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -117,7 +117,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 >
 > Plus, added a `:valid` style to be displayed after correct data entry.
 
-📐 **[Figma model](https://www.figma.com/file/ujFZcMICLmzERunDHD0FDZ/explorer-project-04)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A2573)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -137,7 +137,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlights:** 
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/explorer-project-05)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=0%3A1)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -151,13 +151,13 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-05/)**
+🔗 
 
 👨‍💻 **Task:** build ___ from a given layout.
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/explorer-project-05)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A512)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -177,7 +177,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A739)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -191,13 +191,13 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 ⏳ **Status:** Pending ⏲
 
-🔗 ](https://bpires.github.io/)**
+🔗 
 
 👨‍💻 **Task:** build ___ from a given layout.
 
 💡 **Highlights:**
 
-📐 
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A847)**
 
 🌱 **Stacks:** 
 
@@ -217,27 +217,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/)**
-
-🌱 **Stacks:** 
-
----
-
-## 9 · GitFav
-
-🧮 **Stage 06**
-
-📅 **__.07.2022**
-
-⏳ **Status:** Pending ⏲
-
-🔗 
-
-👨‍💻 **Task:** 
-
-💡 **Highlights:**
-
-📐 **[Figma model](https://www.figma.com/)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A985)**
 
 🌱 **Stacks:** 
 
@@ -257,7 +237,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A1837)**
 
 🌱 **Stacks:** 
 
@@ -277,7 +257,7 @@ I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://gith
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/)**
+📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A277)**
 
 🌱 **Stacks:** 
 
