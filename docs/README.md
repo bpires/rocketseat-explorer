@@ -36,7 +36,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-01/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-01/)**
 
 👨‍💻 **Task:** build a small business static website from a given layout.
 
@@ -58,7 +58,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-02/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-02/)**
 
 👨‍💻 **Task:** build a small business static website from a given layout.
 
@@ -84,7 +84,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-03/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-03/)**
 
 👨‍💻 **Task:** Apply and reinforce the knowledge gained by building a business landing page from scratch.
 
@@ -106,7 +106,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Finished ✔️
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-04/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-04/)**
 
 👨‍💻 **Task:** build a sample form from a given layout.
 
@@ -134,7 +134,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-05/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-05/)**
 
 👨‍💻 **Task:** build forms from given layouts.
 
@@ -154,7 +154,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-06/)**
 
 👨‍💻 **Task:** build ___ from a given layout.
 
@@ -174,7 +174,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗 **[See it online](https://bpires.github.io/)**
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-07/)**
 
 👨‍💻 **Task:** build ___ from a given layout.
 
@@ -194,7 +194,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-08/)**
 
 👨‍💻 **Task:** build ___ from a given layout.
 
@@ -214,7 +214,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-09/)**
 
 👨‍💻 **Task:**
 
@@ -234,7 +234,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-10/)**
 
 👨‍💻 **Task:**
 
@@ -254,7 +254,7 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 ⏳ **Status:** Pending ⏲
 
-🔗
+🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/projects/project-11/)**
 
 👨‍💻 **Task:**
 
