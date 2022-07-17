@@ -98,7 +98,7 @@ footer {
 #line {
   width: 568px;
   height: 0px;  
-  border: 1px solid #00BFA6;
+  border-bottom: 1px solid #00BFA6;
   margin: 0 auto 0;
 }
 
