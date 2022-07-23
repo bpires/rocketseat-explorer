@@ -36,15 +36,27 @@ main {
   gap: 1.6rem;
 }
 
+.toggleMode {
+  position: absolute;
+  top: 6.4rem;
+  right: 6.4rem;
+
+  display: flex;
+  
+  width: clamp(1rem, 1rem + 10vw, 4.8rem);
+  height: clamp(1rem, 1rem + 10vw, 4.8rem);
+}
+
+
 .timer {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: clamp(4rem, 6rem + 12vw, 12.6rem);  
 
+  font-size: clamp(4rem, 6rem + 12vw, 12.6rem);  
 }
 
-.buttons {
+.controls {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -52,10 +64,8 @@ main {
 
   margin: 0 auto;
 
-  border-radius: 9999px;
-
   width: clamp(15rem, 15rem + 30vw, 31.2rem);
-  height: clamp(2rem, 2rem + 10vw, 5rem);
+  height: clamp(2rem, 2rem + 10vw, 4.8rem);
 }
 
 button {
