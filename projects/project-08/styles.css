@@ -18,6 +18,7 @@ a {
   --color-background: #121214;  
 
   --button-colors: #C4C4CC;
+  --card-bg: #29292E; 
 
 }
 
@@ -31,9 +32,10 @@ body {
 main {
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  justify-content: center;    
-  gap: 1.6rem;
+  align-items: center;
+  justify-content: center;
+
+  gap: 19.2rem;
 }
 
 .toggleMode {
@@ -47,8 +49,17 @@ main {
   height: clamp(1rem, 1rem + 10vw, 4.8rem);
 }
 
+timer {
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;    
+  align-items: center;
+  gap: 4.8rem;  
+}
 
-.timer {
+
+.time {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -61,8 +72,6 @@ main {
   align-items: center;
   justify-content: center;
   gap: 4rem;
-
-  margin: 0 auto;
 
   width: clamp(15rem, 15rem + 30vw, 31.2rem);
   height: clamp(2rem, 2rem + 10vw, 4.8rem);
@@ -78,6 +87,28 @@ button svg {
   width: clamp(2rem, 2rem + 10vw, 4.8rem);
 }
 
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+
+  gap: 3.2rem;
+
+  width: 30.8rem;
+  height: 33.6rem;
+}
+
+.card {
+  background-color: var(--card-bg);
+  width: 13.8rem;
+  height: 15.2rem;
+  border-radius: 2.4rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .hide {
   display: none;
