@@ -17,15 +17,13 @@ a {
   --color-text: #FFFFFF;
   --color-background: #121214;  
 
-  --base-color: 194;
+  --button-colors: #C4C4CC;
 
-  --primary-color: hsl(var(--base-color), 100%, 63%);  
-  --button-bg-color: hsla(var(--base-color), 100%, 63%, 13%);
 }
 
 body {
   background-color: var(--color-background);
-  font: normal 700 8.8rem/10.3rem 'Roboto', sans-serif;
+  font: normal 500 12.7rem/14.8rem 'Roboto', sans-serif;
   color: var(--color-text);
 
 }
@@ -42,24 +40,22 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: clamp(4rem, 4rem + 12vw, 8.8rem);  
+  font-size: clamp(4rem, 6rem + 12vw, 12.6rem);  
 
 }
 
-.controls {
+.buttons {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 3.2rem;
+  gap: 4rem;
 
   margin: 0 auto;
-  
-  background-color: var(--button-bg-color);
 
   border-radius: 9999px;
 
-  width: clamp(15rem, 15rem + 30vw, 22.8rem);
-  height: clamp(8rem, 8rem + 10vw, 10.8rem);
+  width: clamp(15rem, 15rem + 30vw, 31.2rem);
+  height: clamp(2rem, 2rem + 10vw, 5rem);
 }
 
 button {
@@ -69,24 +65,14 @@ button {
 }
 
 button svg {
-  width: clamp(3.6rem, 3.6rem + 10vw, 6.4rem);
+  width: clamp(2rem, 2rem + 10vw, 4.8rem);
 }
 
-.play svg path,
-.pause svg path,
-.sound-on svg path {
-  fill: var(--primary-color);
-}
 
 .hide {
   display: none;
 }
 
-footer {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  padding: 0 4rem 3.2rem 0;
-}
+
 
 
