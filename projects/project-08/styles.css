@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Declaring variables */
+
+:root {
+  font-size: 62.5%;
+  /* color palette */
+  --color-text: #FFFFFF;
+  --color-background: #121214;  
+
+  --base-color: 194;
+
+  --primary-color: hsl(var(--base-color), 100%, 63%);  
+  --button-bg-color: hsla(var(--base-color), 100%, 63%, 13%);
+}
+
+body {
+  background-color: var(--color-background);
+  font: normal 700 8.8rem/10.3rem 'Roboto', sans-serif;
+  color: var(--color-text);
+
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;    
+  gap: 1.6rem;
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: clamp(4rem, 4rem + 12vw, 8.8rem);  
+
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.2rem;
+
+  margin: 0 auto;
+  
+  background-color: var(--button-bg-color);
+
+  border-radius: 9999px;
+
+  width: clamp(15rem, 15rem + 30vw, 22.8rem);
+  height: clamp(8rem, 8rem + 10vw, 10.8rem);
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+button svg {
+  width: clamp(3.6rem, 3.6rem + 10vw, 6.4rem);
+}
+
+.play svg path,
+.pause svg path,
+.sound-on svg path {
+  fill: var(--primary-color);
+}
+
+.hide {
+  display: none;
+}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 0 4rem 3.2rem 0;
+}
+
+
