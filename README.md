@@ -65,7 +65,7 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
   
 <div align="center"  display="inline-block">
 
-<i> I'm am an open source enthusiast.</i> 🌱
+<i> > I am an open-source enthusiast.</i> 🌱
 <br/><i>Feel free to get inspiration from any aspect of this repo! 
   <br/>Even so, be reasonable: <strong>do not just copy!</strong>
 <br/>Like academic writing, your work can incorporate the ideas of others 
