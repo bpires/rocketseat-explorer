@@ -101,7 +101,7 @@ I'd appreciate it if you say thanks **by ⭐ starring this repo** or sharing you
 
 🔗 **[See it online](https://bpires.github.io/rocketseat-explorer/project-04/)**
 
-👨‍💻 **Task:** build a sample form from a given [Figma model](https://www.figma.com/file/sgcJKpGAeVqh7rf2pwsOd9/Explorer-Stage-03-Projeto-01)
+👨‍💻 **Task:** build a sample form from a given Figma model
 
 > Worked with forms to capture data from the web, using a varied range of form elements and exploring its properties.
 > 
