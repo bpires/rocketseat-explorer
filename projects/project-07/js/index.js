@@ -4,6 +4,8 @@ const buttonStop = document.querySelector('.stop')
 const buttonSet = document.querySelector('.set')
 const buttonSoundOn = document.querySelector('.sound-on')
 const buttonSoundOff = document.querySelector('.sound-off')
+let minutes
+const minutesDisplay
 
 
 
@@ -24,6 +26,10 @@ buttonStop.addEventListener('click', function() {
   buttonPause.classList.add('hide')
   buttonSet.classList.remove('hide')
   buttonStop.classList.add('hide')
+})
+
+buttonSet.addEventListener('click', function() {
+  minutes = prompt ("Quantos minutos?")
 })
 
 buttonSoundOff.addEventListener('click', function() {

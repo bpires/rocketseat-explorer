@@ -11,11 +11,11 @@
 
 This is the way I've found to document my journey as a rookie Web Developer 🚀
 
-Here you'll find coursework projects and study exercises I'm gathering throughout my experience on the Explorer course at Rocketseat, as well as other little projects I do along the way.   
+Here you'll find coursework projects and study exercises I'm gathering throughout my experience on the Explorer course at Rocketseat, as well as other little projects I do along the way.
 
 You can find all about it in **[📙 my learning journal](https://bpires.github.io/rocketseat-explorer/docs/#/)** on this repo docs.
 
-If you like this way of documenting your journey, feel free to reach out and ask me anything. It will be my pleasure to help you out! 
+If you like this way of documenting your journey, feel free to reach out and ask me anything. It will be my pleasure to help you out!
 
 Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 
@@ -66,9 +66,9 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 <div align="center"  display="inline-block">
 
 <i> I'm am an open source enthusiast.</i> 🌱
-<br/><i>Feel free to get inspiration from any aspect of this repo! 
+<br/><i>Feel free to get inspiration from any aspect of this repo!
   <br/>Even so, be reasonable: <strong>do not just copy!</strong>
-<br/>Like academic writing, your work can incorporate the ideas of others 
+<br/>Like academic writing, your work can incorporate the ideas of others
 <br>but should reflect your original approach to the problem.</i>
 
 </div>
