@@ -17,9 +17,6 @@ If you like this way of documenting your journey, feel free to fork it and use i
 
 I'd appreciate it if you say thanks [**by ⭐ starring this repo**](https://github.com/bpires/rocketseat-explorer) or sharing your thoughts with me.
 
-All Figma layouts used are available [🗃️ here](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A277).
-
-
 ?> Last update: **{docsify-updated}**
 
 ---
@@ -43,8 +40,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 > Exercised HTML syntax, anatomy and elements while structuring the web page.
 >
 > Used CSS styling for font customization, text formatting, and element positioning according to the intended layout.
-
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A59)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -70,8 +65,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 💡 **Highlight:** Learned the concept of code refactoring, restructuring it to improve semantics and accessibility, as well as cleaning it up for easier understanding, maintaining and further modification.
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A60)**
-
 🌱 **Stacks:** HTML | CSS
 
 ---
@@ -91,8 +84,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 > Practised finding bugs and reviewing semantics and accessibility by fixing three broken codes.
 >
 > Afterwards, consolidated all content learned so far by building a new website.
-
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A392)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -120,8 +111,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 >
 > Plus, added a `:valid` style to be displayed after correct data entry.
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A2573)**
-
 🌱 **Stacks:** HTML | CSS
 
 ---
@@ -139,8 +128,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 👨‍💻 **Task:** build forms from given layouts.
 
 💡 **Highlights:**
-
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=0%3A1)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -160,8 +147,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A512)**
-
 🌱 **Stacks:** HTML | CSS
 
 ---
@@ -179,8 +164,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 👨‍💻 **Task:** build ___ from a given layout.
 
 💡 **Highlights:**
-
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3402%3A739)**
 
 🌱 **Stacks:** HTML | CSS
 
@@ -200,8 +183,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A847)**
-
 🌱 **Stacks:**
 
 ---
@@ -219,8 +200,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 👨‍💻 **Task:**
 
 💡 **Highlights:**
-
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A985)**
 
 🌱 **Stacks:**
 
@@ -240,8 +219,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 
 💡 **Highlights:**
 
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3403%3A1837)**
-
 🌱 **Stacks:**
 
 ---
@@ -259,8 +236,6 @@ All Figma layouts used are available [🗃️ here](https://www.figma.com/file/I
 👨‍💻 **Task:**
 
 💡 **Highlights:**
-
-📐 **[Figma model](https://www.figma.com/file/IwcoCNIXwExMdADaszhK27/Rocketseat-Explorer-projects?node-id=3404%3A277)**
 
 🌱 **Stacks:**
 

@@ -1,6 +1,6 @@
 # 👨‍🚀 Rocketseat's Explorer coursework projects
 
-![created](https://badges.pufler.dev/created/bpires/rocketseat-explorer?color=5F9EA0) &nbsp;  ![last commit](https://img.shields.io/github/last-commit/bpires/rocketseat-explorer?color=5F9EA0 'last commit') &nbsp;  ![repo size](https://img.shields.io/github/repo-size/bpires/rocketseat-explorer?color=5F9EA0 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/bpires/rocketseat-explorer?color=5F9EA0 'languages') &nbsp; ![license](https://img.shields.io/github/license/bpires/rocketseat-explorer?color=5F9EA0) 
+![last commit](https://img.shields.io/github/last-commit/bpires/rocketseat-explorer?color=5F9EA0 'last commit') &nbsp;  ![repo size](https://img.shields.io/github/repo-size/bpires/rocketseat-explorer?color=5F9EA0 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/bpires/rocketseat-explorer?color=5F9EA0 'languages') &nbsp; ![license](https://img.shields.io/github/license/bpires/rocketseat-explorer?color=5F9EA0) 
 <br/>
 
 <!--
@@ -67,7 +67,7 @@ Also, I'd really appreciate it if you say thanks **by ⭐ starring this repo**.
 
 <i> I'm am an open source enthusiast.</i> 🌱
 <br/><i>Feel free to get inspiration from any aspect of this repo!
-  <br/>Even so, be reasonable: <strong>do not just copy!</strong>
+<br/>Even so, be reasonable: <strong>do not just copy!</strong>
 <br/>Like academic writing, your work can incorporate the ideas of others
 <br>but should reflect your original approach to the problem.</i>
 
