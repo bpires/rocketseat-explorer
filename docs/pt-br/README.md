@@ -6,17 +6,17 @@
         </p>
 
 
+
 # Rocketseat Explorer coursework projects <!-- {docsify-ignore} -->
 #### 👨‍🚀 Rafael B. Pires <!-- {docsify-ignore} -->
 
-This is a way to document my journey as a WebDev aspirer 🚀
+Esta é uma maneira de documentar minha jornada como aspirante a WebDev 🚀
 
-Here you'll find coursework projects and exercises I'm gathering throughout my experience on the Explorer course at Rocketseat, as well as other little projects I do along the way.
+Aqui você encontrará projetos de curso e exercícios que estou reunindo ao longo de minha experiência no curso Explorer na Rocketseat, bem como outros pequenos projetos que faço ao longo do caminho.
 
-If you like this way of documenting your journey, feel free to fork it and use it your own way. 
+Se você gosta desta forma de documentar sua viagem, sinta-se à vontade para dar fork e usá-la do seu próprio jeito.
 
-I'd appreciate it if you say thanks **by ⭐ starring this repo** or sharing your thoughts with me.
-
+Agradeceria se você dissesse obrigado **⭐ estrelando este repo** ou trocando uma ideia comigo.
 
 
 ?> Last update: **{docsify-updated}**

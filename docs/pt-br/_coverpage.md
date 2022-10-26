@@ -1,4 +1,4 @@
-![logo](_media/logo.svg)
+![logo](../_media/logo.svg)
 
 <h1> Rocketseat Explorer · Projetos do curso </h1>
 
@@ -8,7 +8,7 @@
 
 aprender · documentar · compartilhar conhecimento
 
-[Explore :mag_right:](#rocketseat-explorer-coursework-projects)
+[Explore :mag_right:](/pt-br/index.md)
 [Star this repo :star:](https://github.com/bpires/rocketseat-explorer)
 
 ![color](#b3d9f8)

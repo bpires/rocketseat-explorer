@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
-    <title>bpires | Rocketseat - Explorer</title>
+    <title>bpires | Rocketseat Explorer</title>
     
     <meta name="description" content="Rocketseat's Explorer coursework projects">
 
@@ -35,26 +35,7 @@
 
     </style>
 
-    <!-- Docsify core. -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js" data-ga="G-FJ96SKM5EQ"></script>
-    <!-- Docsify Google Analytics plugin. -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
-    <!-- Docsify-themeable  -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-    <!-- Docsify-zoom image -->
-    <script defer src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-    <!-- Docsify-emojis -->
-    <script defer src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-    <!-- docsify-footer -->
-    <script defer src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
-    <!-- docsify-code-inline -->  
-    <script defer src="//unpkg.com/@rakutentech/docsify-code-inline/dist/index.min.js"></script>
-
-    <!-- Syntax highlighting.-->
-     <script defer src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
-     <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
-     <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script>
-     <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-html.min.js"></script>
+   
 </head>
 
 <body>
@@ -69,41 +50,141 @@
     <script>
             
         window.$docsify = {
-            name: "Rocketseat Explorer", 
-            repo: "https://github.com/bpires/rocketseat-explorer",
-            nameLink: "/#/?id=start",
+          name: "Rocketseat Explorer", 
+          repo: "https://github.com/bpires/rocketseat-explorer/",
+          nameLink: {
+            '/pt-br/': '#/pt-br/index.md',
+            '/': '#/index.md',
+          },
+
+          homepage: 'index.md',
+
+          // break the caching
+          requestHeaders: {
+          'cache-control': 'no-cache'
+          },
+
+          // Languages
+          loadNavbar: true,
+          fallbackLanguages: ['en', 'pt-br'], 
+
+          // Navigation
+          auto2top: true,
+          autoHeader: true,
+
+          // Cover Page
+          coverpage: true,
+          coverpage: ['/', '/pt-br/'],
+
+          loadSidebar: true,
+          maxLevel: 1,
+          subMaxLevel: 3,
+          topMargin: 90,
 
 
-            loadNavbar: true,
-            auto2top: true,
-            coverpage: true,
-            coverpage: ['/', '/pt-br/'],
-            loadSidebar: false,
-            maxLevel: 6,
-            subMaxLevel: 3,
-            themeColor: "#659d9f", 
-            formatUpdated: '{DD}/{MM}/{YY}',
-            topMargin: 30,
+          themeColor: "#659d9f", 
+          formatUpdated: '{DD}/{MM}/{YY}',
+          topMargin: 30,
 
+          // Search plugin
+          search: {
+            depth: 3,
+            noData: {
+              '/pt-br/': 'Sem resultados.',
+              '/': 'No Results.'
+            },
+            placeholder: {
+              '/pt-br/': 'Digite para pesquisar',
+              '/': 'Type to search'
+            },
+          },
+          
+          // Add languages here for message box translations
+          flexibleAlerts: {
+            style: 'callout',
+            note: {
+              label: {
+                '/pt-br/': 'Observação',
+                '/': 'Note'
+              }
+            },
+            tip: {
+              label: {
+                '/pt-br/': 'Dica',
+                '/': 'Tip'
+              }
+            },
+            warning: {
+              label: {
+                '/pt-br/': 'Aviso',
+                '/': 'Warning'
+              }
+            },
+            attention: {
+              label: {
+                '/pt-br/': 'Atenção',
+                '/': 'Attention'
+              }
+            }
+          },            
 
-            fallbackLanguages: ['en', 'pt-br'],
+          pagination: {
+            crossChapter: true
+          },
 
-            footer: {
-                copy: '<a href="https://github.com/bpires/rocketseat-explorer/blob/882dee288d2d5b812c11809a48a3b4d0a18061f7/LICENSE">MIT</a> &copy; 2022',
-                auth: 'by Rafael',
-                pre: '<hr/>',
-                style: 'text-align: right;',
-                class: 'className',
-                },
+          tabs: {
+            persist: true, // default
+            sync: true, // default
+            theme: 'classic', // default
+            tabComments: true, // default
+            tabHeadings: true // default
+          },
+
+          footer: {
+            copy: '<a href="https://github.com/bpires/rocketseat-explorer/blob/882dee288d2d5b812c11809a48a3b4d0a18061f7/LICENSE">MIT</a> &copy; 2022',
+            auth: 'by Rafael',
+            pre: '<hr/>',
+            style: 'text-align: right;',
+            class: 'className',
+          },
 
         }
 
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-    <!-- Docsify-click to copy -->
+    
+    <!-- docsify (latest v4.x.x) -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4" data-ga="G-FJ96SKM5EQ"></script>
+    <!-- docsify tabs plugin: https://github.com/jhildenbiddle/docsify-tabs -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <!-- docsify click to copy plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-    <!-- Docsify search plugin. -->
+    <!-- docsify search plugin -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- docsify flexible alerts plugin: https://github.com/fzankl/docsify-plugin-flexible-alerts -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"></script>
+    <!-- docsify pagination plugin: https://github.com/imyelo/docsify-pagination -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!-- docsify emoji parser plugin -->  
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <!-- docsify share plugin: https://github.com/coroo/docsify-share
+    <script src="//unpkg.com/docsify-share/build/index.min.js"></script> -->
+    <!-- Docsify Google Analytics plugin. -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+    <!-- Docsify-themeable  -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <!-- Docsify-zoom image -->
+    <script defer src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!-- docsify-footer -->
+    <script defer src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+    <!-- docsify-code-inline -->  
+    <script defer src="//unpkg.com/@rakutentech/docsify-code-inline/dist/index.min.js"></script>
+    <!-- Syntax highlighting.-->
+    <script defer src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+    <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+    <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script>
+    <script defer src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-html.min.js"></script>
+
+
 
     
 </body>

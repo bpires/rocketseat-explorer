@@ -8,7 +8,7 @@
 
 learn · document · share knowledge
 
-[Explore :mag_right:](#start)
+[Explore :mag_right:](/index.md)
 [Star this repo :star:](https://github.com/bpires/rocketseat-explorer)
 
 ![color](#b3d9f8)
